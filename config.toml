@@ -1,0 +1,13 @@
+
+languageCode = 'en-us'
+
+# Theme Settings
+theme = "tale"
+[params]
+  Author = "Ndemo richard" # Add the name of the author (this theme only supports one author)
+[author]
+  name = "ndemorich" # Used by the foot copyright
+
+  
+googleAnalytics = "G-M00LEV3BZY" # The UA-XXX number from Google Analytics
+
